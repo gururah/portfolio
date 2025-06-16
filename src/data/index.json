@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I build responsive and interactive web interfaces using HTML5, CSS, and JavaScript, along with libraries like React.js. My focus is on delivering a smooth user experience with clean and efficient code."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I develop reliable and scalable back-end systems using Java and Spring Boot, with strong database management using MySQL. I work on creating RESTful APIs and integrating data with front-end applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I create user-centric design prototypes using Figma, focusing on layout, consistency, and usability. My design approach ensures a seamless bridge between user expectations and technical implementation."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/snake.jpeg",
+      "title": "Snake Game",
+      "description": "A classic Snake Game developed using Java Swing, showcasing core Java concepts and GUI design. The game features smooth controls, collision detection, and real-time score tracking.",
+      "link": "https://github.com/gururah/Snake_Game/tree/main"
+    },
+    {
+      "id": "2",
+      "src": "./img/port-polio1.png",
+      "title": "Project Portfolio",
+      "description": "A responsive portfolio website highlighting my web development projects and technical skills. Built using modern UI/UX principles and React for seamless navigation",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/port-polio2.png",
+      "title": "Online Banking Application",
+      "description": "Designed and developed a user-friendly online banking interface using React.js. Features include login, fund transfer, transaction history, and responsive UI components.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
